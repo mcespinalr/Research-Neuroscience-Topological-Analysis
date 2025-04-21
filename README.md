@@ -24,7 +24,7 @@ This repository contains the following documents related to my research in the f
 **Date**: 2024
 **Description**:  This abstract presents preliminary research on the topological analysis of major depressive disorder, exploring brain connectivity and features of neural networks in patients with this diagnosis. The work shows how mathematical tools can contribute to a better understanding of neurological processes related to depression.
 
-**Link to document**: [https://github.com/mcespinalr/Research-Neuroscience-Topological-Analysis/blob/main/docs/Memorias_Mapi3_Version06.pdf]](link)
+**Link to document**: https://github.com/mcespinalr/Research-Neuroscience-Topological-Analysis/blob/main/docs/Memorias_Mapi3_Version06.pdf
 
 ---
 
